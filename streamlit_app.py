@@ -33,7 +33,7 @@ with st.sidebar:
   gender = st.selectedbox('Gender',('male','female'))
 
   #craetimg the data frame ffor the input features
-  data {
+  data = {
     'island', island,
     'bill_length_mm': bill_length_mm,
     'bill_depth_mm': bill_depth_mm,
