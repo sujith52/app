@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦₹ MACHINE LEARNING APP
 
-Description of the app ...
+thi scan be a machine learning app
 
 ## Demo App
 
